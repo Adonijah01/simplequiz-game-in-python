@@ -11,7 +11,7 @@ How to Run
 
     bash
 
-git clone https://github.com/your-username/quiz-game.git
+git clone https://github.com/adonijah01/simplequiz-game-in-python.git
 
 Navigate to the project directory:
 
